@@ -143,6 +143,8 @@ $ curl localhost:9200/_cat/indices
 green open ks-logstash-log-2021.04.06 QeI-k_LoQZ2h1z23F3XiHg  5 1 404879 0 298.4mb 149.2mb
 ```
 
+## Monitoring
+
 ## API Doc
 
 The list below shows supported plugins which are based on Fluent Bit v1.7.x+. For more information, please refer to the API docs of each plugin.
